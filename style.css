@@ -93,5 +93,43 @@ float: left;
 .right-div2{
     text-align: justify;
 }
-/* Work Experience Start*/
+/* Work Experience End*/
+
+/* Education section Start*/
+.edu-template-left{
+float: left;
+width: 45%;
+}
+.edu-template-right{
+    float: right;
+    width: 45%; 
+}
+/* Education section End*/
+
+/* Footer Start*/
+
+.bottom-container{
+    background-color: black;
+    text-align: center;
+    padding: 10px;
+}
+.bottom-container a{
+    color: #eee;
+    text-decoration: none;
+    margin: 20px;
+}
+.bottom-container p{
+    color: #eee;
+    margin-top: 20px;
+}
+
+
+
+
+
+
+
+/* Footer Start*/
+
+
 
