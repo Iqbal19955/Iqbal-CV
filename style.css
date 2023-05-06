@@ -14,6 +14,8 @@ body{
     margin: 0 auto;
     padding: 20px;
 }
+
+/*Header start */
 header{
 
 }
@@ -53,8 +55,43 @@ h1,h2,h3,h4,h5,h6{
     clear: both;
 }
 hr{
-    border: solid black 2px;
+    border: solid black 1px;
     width: 100%;
     margin: 20px auto;
     margin-bottom: none;
 }
+/*Header End */
+
+
+/*Personal Information Start*/
+#personal-section{
+
+}
+
+.content{
+margin-bottom: 30px;
+}
+
+.left-div{
+width: 30%;
+float: left;
+}
+.right-div{
+    width: 70%;
+    float: left;
+    text-align: justify;
+}
+.common-hr{
+    border: solid black 1px;
+    border-bottom: none;
+    width: 100%;
+    margin: 20px auto;
+}
+
+
+/* Work Experience Start*/
+.right-div2{
+    text-align: justify;
+}
+/* Work Experience Start*/
+
